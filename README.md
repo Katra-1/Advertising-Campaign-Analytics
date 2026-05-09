@@ -64,6 +64,10 @@ This dashboard helps answer the following questions:
 
 The goal of this project is to create an analytical dashboard that helps marketing teams monitor advertising campaign performance, evaluate budget efficiency, and make data-driven decisions about scaling or optimizing campaigns.
 
+## Tools
+
+PostgreSQL, Tableau
+
 ## Links
 - [Tableau Dashboard](https://public.tableau.com/shared/ZWDJ6CMM8?:display_count=n&:origin=viz_share_link)
 
