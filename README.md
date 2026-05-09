@@ -1,6 +1,6 @@
 # Advertising Campaign Analytics Dashboard
 
-![Dashboard Preview](/.dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Project Overview
 
