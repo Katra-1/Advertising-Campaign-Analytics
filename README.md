@@ -1,1 +1,1 @@
-![Dashboard Preview](/.Advertising Campaign Analytics-2.png)
+![Dashboard Preview](/.dashboard-preview.png)
